@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pociatlo&label=Profile%20views&color=b40e1e&style=flat-square" alt="pociatlo" /> </p>
 
 - 🔭 I’m currently working on **Retromachina**
