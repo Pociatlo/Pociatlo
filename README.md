@@ -4,8 +4,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pociatlo&label=Profile%20views&color=b40e1e&style=flat-square" alt="pociatlo" /> </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pociatlo&label=Profile%20views&color=b40e1e&style=flat-square" alt="pociatlo" /> </p>
 
 - 🔭 I’m currently working on **Retromachina**
 
