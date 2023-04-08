@@ -7,9 +7,9 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pociatlo&label=Profile%20views&color=b40e1e&style=flat-square" alt="pociatlo" /> </p>
 
-- 🔭 I’m currently working on **Retromachina**
+- 🔭 I’m currently working on **Sketch Scuffle**
 
-- 🌱 I’m currently learning **React,TS,SASS**
+- 🌱 I’m currently learning **Next**
 
 - 📫 How to reach me **k.podsadlo@gmail.com**
 
