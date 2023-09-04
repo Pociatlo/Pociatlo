@@ -22,4 +22,5 @@
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pociatlo&show_icons=true&theme=dark&locale=en" alt="pociatlo" /></div>
 <br>
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pociatlo&theme=dark" alt="pociatlo" /></div>
+<br>
 <div align="center"><a href="https://app.daily.dev/pociatlo"><img src="https://api.daily.dev/devcards/a1491e286eac4781946b993ec80c5053.png?r=ad4" width="400" alt="Krzysztof Podsiadło's Dev Card"/></a></div>
